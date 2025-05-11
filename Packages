@@ -1,1 +1,12 @@
-
+Package: com.example.tweak
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Your Name <your@email.com>
+Description: A cool tweak
+Depends: firmware (>= 14.0)
+Section: Tweaks
+Filename: ./debs/com.example.tweak_1.0_iphoneos-arm.deb
+Size: 12345
+MD5sum: abcdef1234567890
+SHA1: 1234567890abcdef
+SHA256: abc123def456
